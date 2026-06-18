@@ -1,0 +1,331 @@
+2026-06-18T09:43:19.428+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Starting Ch04Application using Java 21.0.11 with PID 8780 (C:\Users\GGG\Desktop\Workspace\Spring\ch04\build\classes\java\main started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T09:43:19.428+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T09:43:19.654+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-06-18T09:43:19.656+09:00  INFO 8780 --- [ch04] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-18T09:43:19.657+09:00  INFO 8780 --- [ch04] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-06-18T09:43:19.670+09:00  INFO 8780 --- [ch04] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring embedded WebApplicationContext
+2026-06-18T09:43:19.670+09:00  INFO 8780 --- [ch04] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 240 ms
+2026-06-18T09:43:19.736+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T09:43:19.801+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-06-18T09:43:19.809+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/ch04'
+2026-06-18T09:43:19.812+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Started Ch04Application in 0.409 seconds (process running for 280.255)
+2026-06-18T09:43:19.813+09:00  INFO 8780 --- [ch04] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-06-18T09:47:57.267+09:00  INFO 8780 --- [ch04] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-06-18T09:47:57.267+09:00  INFO 8780 --- [ch04] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-18T09:47:57.270+09:00  INFO 8780 --- [ch04] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2026-06-18T09:47:57.335+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Starting Ch04Application using Java 21.0.11 with PID 8780 (C:\Users\GGG\Desktop\Workspace\Spring\ch04\build\classes\java\main started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T09:47:57.335+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T09:47:57.534+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-06-18T09:47:57.535+09:00  INFO 8780 --- [ch04] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-18T09:47:57.535+09:00  INFO 8780 --- [ch04] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-06-18T09:47:57.546+09:00  INFO 8780 --- [ch04] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring embedded WebApplicationContext
+2026-06-18T09:47:57.547+09:00  INFO 8780 --- [ch04] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 210 ms
+2026-06-18T09:47:57.602+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T09:47:57.654+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-06-18T09:47:57.662+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/ch04'
+2026-06-18T09:47:57.665+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Started Ch04Application in 0.355 seconds (process running for 558.108)
+2026-06-18T09:47:57.666+09:00  INFO 8780 --- [ch04] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-06-18T09:47:59.079+09:00  INFO 8780 --- [ch04] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-06-18T09:47:59.079+09:00  INFO 8780 --- [ch04] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-18T09:47:59.082+09:00  INFO 8780 --- [ch04] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2026-06-18T09:47:59.142+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Starting Ch04Application using Java 21.0.11 with PID 8780 (C:\Users\GGG\Desktop\Workspace\Spring\ch04\build\classes\java\main started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T09:47:59.142+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T09:47:59.315+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-06-18T09:47:59.315+09:00  INFO 8780 --- [ch04] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-18T09:47:59.315+09:00  INFO 8780 --- [ch04] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-06-18T09:47:59.326+09:00  INFO 8780 --- [ch04] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring embedded WebApplicationContext
+2026-06-18T09:47:59.326+09:00  INFO 8780 --- [ch04] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 183 ms
+2026-06-18T09:47:59.379+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T09:47:59.422+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-06-18T09:47:59.430+09:00  INFO 8780 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/ch04'
+2026-06-18T09:47:59.432+09:00  INFO 8780 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Started Ch04Application in 0.311 seconds (process running for 559.875)
+2026-06-18T09:47:59.432+09:00  INFO 8780 --- [ch04] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-06-18T09:48:03.681+09:00  INFO 8780 --- [ch04] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-18T09:48:03.681+09:00  INFO 8780 --- [ch04] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-18T09:48:03.682+09:00  INFO 8780 --- [ch04] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-06-18T09:48:08.032+09:00  INFO 8780 --- [ch04] [http-nio-8080-exec-2] o.e.ch04.controller.User1Controller      : log - info...
+2026-06-18T09:48:08.033+09:00  WARN 8780 --- [ch04] [http-nio-8080-exec-2] o.e.ch04.controller.User1Controller      : log - warn...
+2026-06-18T09:48:08.033+09:00 ERROR 8780 --- [ch04] [http-nio-8080-exec-2] o.e.ch04.controller.User1Controller      : log - error
+2026-06-18T10:02:48.106+09:00  INFO 8780 --- [ch04] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-18T10:02:48.110+09:00  INFO 8780 --- [ch04] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2026-06-18T10:02:52.357+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Starting Ch04Application using Java 21.0.11 with PID 9304 (C:\Users\GGG\Desktop\Workspace\Spring\ch04\build\classes\java\main started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:02:52.358+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:02:52.397+09:00  INFO 9304 --- [ch04] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-06-18T10:02:52.397+09:00  INFO 9304 --- [ch04] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-06-18T10:02:53.197+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-06-18T10:02:53.209+09:00  INFO 9304 --- [ch04] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-18T10:02:53.209+09:00  INFO 9304 --- [ch04] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-06-18T10:02:53.240+09:00  INFO 9304 --- [ch04] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring embedded WebApplicationContext
+2026-06-18T10:02:53.241+09:00  INFO 9304 --- [ch04] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 844 ms
+2026-06-18T10:02:53.503+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:02:53.734+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-06-18T10:02:53.762+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/ch04'
+2026-06-18T10:02:53.770+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Started Ch04Application in 1.771 seconds (process running for 3.426)
+2026-06-18T10:03:29.302+09:00  INFO 11784 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : Starting Ch04ApplicationTests using Java 21.0.11 with PID 11784 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:03:29.303+09:00  INFO 11784 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:03:30.521+09:00  INFO 11784 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:03:30.829+09:00  INFO 11784 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : Started Ch04ApplicationTests in 1.814 seconds (process running for 4.357)
+2026-06-18T10:03:31.469+09:00  INFO 11784 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : contextLoads...
+2026-06-18T10:12:55.418+09:00  INFO 9304 --- [ch04] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 3 deletions, 0 modifications)
+2026-06-18T10:12:55.421+09:00  INFO 9304 --- [ch04] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-18T10:12:55.424+09:00  INFO 9304 --- [ch04] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2026-06-18T10:12:55.498+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Starting Ch04Application using Java 21.0.11 with PID 9304 (C:\Users\GGG\Desktop\Workspace\Spring\ch04\build\classes\java\main started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:12:55.498+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:12:55.739+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-06-18T10:12:55.741+09:00  INFO 9304 --- [ch04] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-18T10:12:55.741+09:00  INFO 9304 --- [ch04] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-06-18T10:12:55.755+09:00  INFO 9304 --- [ch04] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring embedded WebApplicationContext
+2026-06-18T10:12:55.755+09:00  INFO 9304 --- [ch04] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 254 ms
+2026-06-18T10:12:55.826+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:12:55.899+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-06-18T10:12:55.908+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/ch04'
+2026-06-18T10:12:55.911+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Started Ch04Application in 0.442 seconds (process running for 605.567)
+2026-06-18T10:12:55.912+09:00  INFO 9304 --- [ch04] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-06-18T10:12:57.324+09:00  INFO 9304 --- [ch04] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2026-06-18T10:12:57.325+09:00  INFO 9304 --- [ch04] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-18T10:12:57.328+09:00  INFO 9304 --- [ch04] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2026-06-18T10:12:57.401+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Starting Ch04Application using Java 21.0.11 with PID 9304 (C:\Users\GGG\Desktop\Workspace\Spring\ch04\build\classes\java\main started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:12:57.401+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:12:57.449+09:00  INFO 4048 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : Starting Ch04ApplicationTests using Java 21.0.11 with PID 4048 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:12:57.451+09:00  INFO 4048 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:12:57.626+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-06-18T10:12:57.629+09:00  INFO 9304 --- [ch04] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-18T10:12:57.629+09:00  INFO 9304 --- [ch04] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-06-18T10:12:57.642+09:00  INFO 9304 --- [ch04] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/ch04]   : Initializing Spring embedded WebApplicationContext
+2026-06-18T10:12:57.642+09:00  INFO 9304 --- [ch04] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 239 ms
+2026-06-18T10:12:57.709+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:12:57.767+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-06-18T10:12:57.782+09:00  INFO 9304 --- [ch04] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/ch04'
+2026-06-18T10:12:57.787+09:00  INFO 9304 --- [ch04] [restartedMain] org.example.ch04.Ch04Application         : Started Ch04Application in 0.415 seconds (process running for 607.443)
+2026-06-18T10:12:57.789+09:00  INFO 9304 --- [ch04] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-06-18T10:12:58.629+09:00  INFO 4048 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:12:58.945+09:00  INFO 4048 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : Started Ch04ApplicationTests in 1.79 seconds (process running for 2.879)
+2026-06-18T10:12:59.548+09:00  INFO 4048 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : contextLoads...
+2026-06-18T10:15:18.797+09:00  INFO 7968 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : Starting Ch04ApplicationTests using Java 21.0.11 with PID 7968 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:15:18.800+09:00  INFO 7968 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:15:20.096+09:00  INFO 7968 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:15:20.446+09:00  INFO 7968 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : Started Ch04ApplicationTests in 1.961 seconds (process running for 3.201)
+2026-06-18T10:15:21.149+09:00  INFO 7968 --- [ch04] [Test worker] org.example.ch04.Ch04ApplicationTests    : contextLoads...
+2026-06-18T10:21:19.007+09:00  INFO 9100 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 9100 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:21:19.008+09:00  INFO 9100 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:21:20.149+09:00  INFO 9100 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:21:20.459+09:00  INFO 9100 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.745 seconds (process running for 2.854)
+2026-06-18T10:21:21.118+09:00  INFO 9100 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:21:21.482+09:00  INFO 9100 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@219edc05
+2026-06-18T10:21:21.484+09:00  INFO 9100 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:21:21.531+09:00  INFO 9100 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : User1DTO(userid=A101, name=김유신, hp=010-1234-1111, age=25)
+2026-06-18T10:21:21.591+09:00  INFO 9100 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:21:21.651+09:00  INFO 9100 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:21:42.392+09:00  INFO 11292 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 11292 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:21:42.393+09:00  INFO 11292 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:21:43.533+09:00  INFO 11292 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:21:43.868+09:00  INFO 11292 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.771 seconds (process running for 2.978)
+2026-06-18T10:21:44.502+09:00  INFO 11292 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:21:44.843+09:00  INFO 11292 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5c930fc3
+2026-06-18T10:21:44.845+09:00  INFO 11292 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:21:44.923+09:00  INFO 11292 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:21:44.930+09:00  INFO 11292 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:21:59.316+09:00  INFO 8532 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 8532 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:21:59.318+09:00  INFO 8532 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:22:00.415+09:00  INFO 8532 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:22:00.743+09:00  INFO 8532 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.707 seconds (process running for 2.795)
+2026-06-18T10:22:01.389+09:00  INFO 8532 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:22:01.737+09:00  INFO 8532 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48b09105
+2026-06-18T10:22:01.740+09:00  INFO 8532 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:22:01.787+09:00  INFO 8532 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : User1DTO(userid=A101, name=김유신, hp=010-1234-1111, age=25)
+2026-06-18T10:22:01.817+09:00  INFO 8532 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:22:01.821+09:00  INFO 8532 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:25:22.234+09:00  INFO 6764 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 6764 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:25:22.235+09:00  INFO 6764 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:25:23.344+09:00  INFO 6764 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:25:23.678+09:00  INFO 6764 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.728 seconds (process running for 2.822)
+2026-06-18T10:25:24.327+09:00  INFO 6764 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:25:24.673+09:00  INFO 6764 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6144e499
+2026-06-18T10:25:24.675+09:00  INFO 6764 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:25:24.751+09:00  INFO 6764 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:25:24.755+09:00  INFO 6764 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:29:33.104+09:00  INFO 4436 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 4436 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:29:33.106+09:00  INFO 4436 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:29:34.221+09:00  INFO 4436 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:29:34.525+09:00  INFO 4436 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.702 seconds (process running for 2.763)
+2026-06-18T10:29:35.164+09:00  INFO 4436 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:29:35.510+09:00  INFO 4436 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@645c9f0f
+2026-06-18T10:29:35.512+09:00  INFO 4436 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:29:35.624+09:00  INFO 4436 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:29:35.630+09:00  INFO 4436 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:30:56.376+09:00  INFO 3756 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 3756 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:30:56.378+09:00  INFO 3756 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:30:57.544+09:00  INFO 3756 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:30:57.880+09:00  INFO 3756 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.784 seconds (process running for 2.87)
+2026-06-18T10:30:58.540+09:00  INFO 3756 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:30:58.879+09:00  INFO 3756 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@999cd18
+2026-06-18T10:30:58.881+09:00  INFO 3756 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:30:58.960+09:00  INFO 3756 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:30:58.963+09:00  INFO 3756 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:33:04.206+09:00  INFO 6780 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 6780 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:33:04.207+09:00  INFO 6780 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:33:05.312+09:00  INFO 6780 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:33:05.622+09:00  INFO 6780 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.688 seconds (process running for 2.778)
+2026-06-18T10:33:06.311+09:00  INFO 6780 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:33:06.687+09:00  INFO 6780 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@74a1d60e
+2026-06-18T10:33:06.689+09:00  INFO 6780 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:33:06.760+09:00  INFO 6780 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:33:06.764+09:00  INFO 6780 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:34:21.961+09:00  INFO 8144 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 8144 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:34:21.963+09:00  INFO 8144 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:34:23.075+09:00  INFO 8144 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:34:23.390+09:00  INFO 8144 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.709 seconds (process running for 2.787)
+2026-06-18T10:34:24.026+09:00  INFO 8144 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:34:24.381+09:00  INFO 8144 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6796a873
+2026-06-18T10:34:24.383+09:00  INFO 8144 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:34:24.484+09:00  INFO 8144 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : User1DTO(userid=test01, name=테스트, hp=010-2221-0102, age=33)
+2026-06-18T10:34:24.515+09:00  INFO 8144 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:34:24.562+09:00  INFO 8144 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:36:08.537+09:00  INFO 6860 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 6860 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:36:08.538+09:00  INFO 6860 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:36:09.641+09:00  INFO 6860 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:36:09.952+09:00  INFO 6860 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.71 seconds (process running for 2.846)
+2026-06-18T10:36:10.650+09:00  INFO 6860 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:36:11.022+09:00  INFO 6860 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28295554
+2026-06-18T10:36:11.024+09:00  INFO 6860 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:36:11.091+09:00  INFO 6860 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:36:11.099+09:00  INFO 6860 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:36:25.122+09:00  INFO 1932 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 1932 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:36:25.123+09:00  INFO 1932 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:36:26.245+09:00  INFO 1932 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:36:26.546+09:00  INFO 1932 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.714 seconds (process running for 2.837)
+2026-06-18T10:36:27.202+09:00  INFO 1932 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:36:27.592+09:00  INFO 1932 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@484a5ddd
+2026-06-18T10:36:27.594+09:00  INFO 1932 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:36:27.694+09:00  INFO 1932 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : User1DTO(userid=test01, name=테스트, hp=010-2221-0102, age=33)
+2026-06-18T10:36:27.726+09:00  INFO 1932 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:36:27.779+09:00  INFO 1932 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:37:26.972+09:00  INFO 10860 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 10860 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:37:26.973+09:00  INFO 10860 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:37:28.099+09:00  INFO 10860 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:37:28.439+09:00  INFO 10860 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.755 seconds (process running for 2.932)
+2026-06-18T10:37:29.074+09:00  INFO 10860 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:37:29.426+09:00  INFO 10860 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@146fa9c0
+2026-06-18T10:37:29.428+09:00  INFO 10860 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:37:29.510+09:00  INFO 10860 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:37:29.514+09:00  INFO 10860 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T10:37:43.093+09:00  INFO 10800 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Starting User1DAOTest using Java 21.0.11 with PID 10800 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T10:37:43.095+09:00  INFO 10800 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T10:37:44.209+09:00  INFO 10800 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T10:37:44.518+09:00  INFO 10800 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : Started User1DAOTest in 1.703 seconds (process running for 2.806)
+2026-06-18T10:37:45.176+09:00  INFO 10800 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T10:37:45.534+09:00  INFO 10800 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3aeb267
+2026-06-18T10:37:45.536+09:00  INFO 10800 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T10:37:45.622+09:00  INFO 10800 --- [ch04] [Test worker] org.example.ch04.dao.User1DAOTest        : User1DTO(userid=test01, name=테스트, hp=010-2221-0102, age=33)
+2026-06-18T10:37:45.668+09:00  INFO 10800 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T10:37:45.714+09:00  INFO 10800 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T11:12:37.833+09:00  INFO 960 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 960 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:12:37.835+09:00  INFO 960 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:12:39.027+09:00  INFO 960 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:12:39.333+09:00  INFO 960 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:12:39.334+09:00  INFO 960 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:12:39.336+09:00  INFO 960 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2026-06-18T11:12:39.371+09:00  INFO 960 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.848 seconds (process running for 4.349)
+2026-06-18T11:12:40.019+09:00  INFO 960 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - info...
+2026-06-18T11:12:40.020+09:00  WARN 960 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - warn...
+2026-06-18T11:12:40.020+09:00 ERROR 960 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - error
+2026-06-18T11:13:26.919+09:00  INFO 304 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 304 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:13:26.921+09:00  INFO 304 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:13:28.023+09:00  INFO 304 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:13:28.347+09:00  INFO 304 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:13:28.348+09:00  INFO 304 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:13:28.350+09:00  INFO 304 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-18T11:13:28.383+09:00  INFO 304 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.765 seconds (process running for 2.886)
+2026-06-18T11:13:29.038+09:00  INFO 304 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - info...
+2026-06-18T11:13:29.039+09:00  WARN 304 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - warn...
+2026-06-18T11:13:29.039+09:00 ERROR 304 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - error
+2026-06-18T11:17:53.178+09:00  INFO 2180 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 2180 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:17:53.180+09:00  INFO 2180 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:17:54.337+09:00  INFO 2180 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:17:54.647+09:00  INFO 2180 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:17:54.647+09:00  INFO 2180 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:17:54.648+09:00  INFO 2180 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-18T11:17:54.680+09:00  INFO 2180 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.809 seconds (process running for 2.968)
+2026-06-18T11:17:55.405+09:00  INFO 2180 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T11:17:55.768+09:00  INFO 2180 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4727e5fc
+2026-06-18T11:17:55.770+09:00  INFO 2180 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T11:17:56.182+09:00  INFO 2180 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T11:17:56.226+09:00  INFO 2180 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T11:23:07.383+09:00  INFO 10860 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 10860 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:23:07.385+09:00  INFO 10860 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:23:08.498+09:00  INFO 10860 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:23:08.837+09:00  INFO 10860 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:23:08.838+09:00  INFO 10860 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:23:08.839+09:00  INFO 10860 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-18T11:23:08.882+09:00  INFO 10860 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.809 seconds (process running for 2.979)
+2026-06-18T11:23:09.578+09:00  INFO 10860 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T11:23:09.928+09:00  INFO 10860 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7378c4a4
+2026-06-18T11:23:09.931+09:00  INFO 10860 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T11:23:10.018+09:00  INFO 10860 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T11:23:10.021+09:00  INFO 10860 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T11:23:15.045+09:00  INFO 4048 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 4048 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:23:15.047+09:00  INFO 4048 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:23:16.143+09:00  INFO 4048 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:23:16.441+09:00  INFO 4048 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:23:16.441+09:00  INFO 4048 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:23:16.443+09:00  INFO 4048 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-18T11:23:16.476+09:00  INFO 4048 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.726 seconds (process running for 2.886)
+2026-06-18T11:23:17.204+09:00  INFO 4048 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T11:23:17.555+09:00  INFO 4048 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d8fd373
+2026-06-18T11:23:17.557+09:00  INFO 4048 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T11:23:17.643+09:00  INFO 4048 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T11:23:17.646+09:00  INFO 4048 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T11:26:02.784+09:00  INFO 10808 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 10808 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:26:02.785+09:00  INFO 10808 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:26:03.913+09:00  INFO 10808 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:26:04.216+09:00  INFO 10808 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:26:04.217+09:00  INFO 10808 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:26:04.218+09:00  INFO 10808 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-18T11:26:04.260+09:00  INFO 10808 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.768 seconds (process running for 2.888)
+2026-06-18T11:26:04.939+09:00  INFO 10808 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T11:26:05.313+09:00  INFO 10808 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a30dbc0
+2026-06-18T11:26:05.316+09:00  INFO 10808 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T11:26:42.221+09:00  INFO 10808 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T11:26:42.227+09:00  INFO 10808 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T11:31:00.453+09:00  INFO 7616 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 7616 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:31:00.455+09:00  INFO 7616 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:31:01.568+09:00  INFO 7616 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:31:01.865+09:00  INFO 7616 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:31:01.865+09:00  INFO 7616 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:31:01.867+09:00  INFO 7616 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2026-06-18T11:31:01.896+09:00  INFO 7616 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.755 seconds (process running for 2.876)
+2026-06-18T11:31:02.537+09:00  WARN 7616 --- [ch04] [Test worker] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2026-06-18T11:32:14.813+09:00  INFO 5900 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 5900 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:32:14.814+09:00  INFO 5900 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:32:15.948+09:00  INFO 5900 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:32:16.250+09:00  INFO 5900 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:32:16.250+09:00  INFO 5900 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:32:16.252+09:00  INFO 5900 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2026-06-18T11:32:16.279+09:00  INFO 5900 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.758 seconds (process running for 2.89)
+2026-06-18T11:32:16.993+09:00  INFO 5900 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T11:32:17.342+09:00  INFO 5900 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ef591af
+2026-06-18T11:32:17.345+09:00  INFO 5900 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T11:32:17.428+09:00  INFO 5900 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T11:32:17.431+09:00  INFO 5900 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T11:32:40.891+09:00  INFO 4064 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 4064 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T11:32:40.893+09:00  INFO 4064 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T11:32:42.369+09:00  INFO 4064 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T11:32:42.745+09:00  INFO 4064 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T11:32:42.745+09:00  INFO 4064 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T11:32:42.747+09:00  INFO 4064 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2026-06-18T11:32:42.785+09:00  INFO 4064 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 2.306 seconds (process running for 3.539)
+2026-06-18T11:32:43.703+09:00  INFO 4064 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-18T11:32:44.105+09:00  INFO 4064 --- [ch04] [Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37083af6
+2026-06-18T11:32:44.109+09:00  INFO 4064 --- [ch04] [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-18T11:32:44.216+09:00  INFO 4064 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-18T11:32:44.222+09:00  INFO 4064 --- [ch04] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-18T12:25:53.288+09:00  INFO 8040 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Starting User1ControllerTest using Java 21.0.11 with PID 8040 (started by GGG in C:\Users\GGG\Desktop\Workspace\Spring\ch04)
+2026-06-18T12:25:53.289+09:00  INFO 8040 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2026-06-18T12:25:54.486+09:00  INFO 8040 --- [ch04] [Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-06-18T12:25:54.807+09:00  INFO 8040 --- [ch04] [Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-18T12:25:54.807+09:00  INFO 8040 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-18T12:25:54.808+09:00  INFO 8040 --- [ch04] [Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-18T12:25:54.836+09:00  INFO 8040 --- [ch04] [Test worker] o.e.ch04.controller.User1ControllerTest  : Started User1ControllerTest in 1.861 seconds (process running for 3.012)
+2026-06-18T12:25:55.536+09:00  INFO 8040 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - info...
+2026-06-18T12:25:55.537+09:00  WARN 8040 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - warn...
+2026-06-18T12:25:55.537+09:00 ERROR 8040 --- [ch04] [Test worker] o.e.ch04.controller.User1Controller      : log - error
