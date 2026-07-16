@@ -1,10 +1,12 @@
 package org.example.ch06.entity.board;
 
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
+
 import java.time.LocalDateTime;
 
 @Getter
@@ -24,5 +26,4 @@ public class User {
 
     @CreationTimestamp
     private LocalDateTime rdate;
-
 }

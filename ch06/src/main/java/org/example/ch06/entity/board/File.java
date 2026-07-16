@@ -1,5 +1,6 @@
 package org.example.ch06.entity.board;
 
+
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -18,10 +19,22 @@ public class File {
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "ano")
-    private Article article; // 해당 파일이 첨부된 글 번호
+    private Article article; // 해당파일이 첨부된 글번호
 
     private String ofName;
     private String sfName;
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+

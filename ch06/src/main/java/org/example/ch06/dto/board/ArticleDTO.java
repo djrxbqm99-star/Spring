@@ -1,5 +1,6 @@
 package org.example.ch06.dto.board;
 
+
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
@@ -20,4 +21,5 @@ public class ArticleDTO {
     private String writer;
     private int file;
     private String wdate;
+
 }

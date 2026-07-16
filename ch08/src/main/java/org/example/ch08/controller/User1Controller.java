@@ -25,7 +25,7 @@ public class User1Controller {
 
         @RestController
         - 요청 메서드를 API로 처리를 위한 Controller 어노테이션
-        - 요청 메서드에 @ResponseBody를 생략 
+        - 요청 메서드에 @ResponseBody를 생략
 
         @ResponseBody
         - 메서드 반환값을 응답객체 body 출력
@@ -66,6 +66,22 @@ public class User1Controller {
         return ResponseEntity
                 .status(HttpStatus.OK)
                 .body(dtoList);
+
+    }
+
+    @GetMapping("/user1/{userid}")
+    public ResponseEntity view(@PathVariable("userid") String userid){
+
+        log.info(userid);
+
+        User1DTO dto = service.getUser(userid);
+
+        if(dto != null){
+            return ResponseEntity.ok(dto);
+        }
+        return ResponseEntity
+                .status(HttpStatus.NOT_FOUND)
+                .build();
 
     }
 

@@ -11,17 +11,16 @@ import org.example.ch06.entity.User1;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-@Builder
 @ToString
-public class User1DTO {
-
+@Builder
+public class  User1DTO {
     private String userid;
     private String name;
     private String hp;
     private int age;
 
     // Entity 변환 메서드
-    public User1 toEntity() {
+    public User1 toEntity(){
         return User1.builder()
                 .userid(userid)
                 .name(name)
@@ -29,5 +28,4 @@ public class User1DTO {
                 .age(age)
                 .build();
     }
-
 }
